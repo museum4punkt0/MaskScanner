@@ -22,7 +22,7 @@ Dieses Multimediasystem ist entstanden im Verbundprojekt museum4punkt0 – Digit
 
 # Installation <a name="Installation">
 
-The installation of the application is split iinto two processes: client installation and server installation.
+The installation of the application is split into two processes: client installation and server installation.
 
 ## Server installation
 
