@@ -3,7 +3,7 @@ Maskenscanner / Mask Scanner
 
 ## Inhaltsverzeichnis
 
-* [Kurzbescreibung](#Description)
+* [Kurzbeschreibung](#Description)
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [Technology stack](#TechStack)
