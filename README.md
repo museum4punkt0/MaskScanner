@@ -1,5 +1,5 @@
 # Name der Anwendung
-# Maskenscanner / Mask Scanner
+Maskenscanner / Mask Scanner
 
 ## Inhaltsverzeichnis
 
