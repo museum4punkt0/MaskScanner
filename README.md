@@ -8,6 +8,7 @@ Maskenscanner / Mask Scanner
 * [Usage](#Usage)
 * [Technology stack](#TechStack)
 * [Codebase](#Codebase)
+* [Beteiligung](#Beteiligung)
 * [Credits](#Credits)
 * [License](#License)
 
@@ -319,7 +320,10 @@ project 3D objects onto their face.
 
 The 3d models and prefabs as well as a Unity test scene are kept in an external package and are imported to the project
 via the Unity PackageManager.
+	
+# Beteiligung <a name="Beteiligung">
 
+	...
 # Credits <a name="Credits">
 
 ...
