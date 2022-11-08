@@ -3,7 +3,7 @@ Maskenscanner / Mask Scanner
 
 ## Inhaltsverzeichnis
 
-* [Kurzbeschreibung](#Description)
+* [Kurzbeschreibung](#Kurzbeschreibung)
 * [Entstehungskontext & Förderhinweis](#Entstehungskontext & Förderhinweis)
 * [Installation](#Installation)
 * [Usage](#Usage)
@@ -12,7 +12,7 @@ Maskenscanner / Mask Scanner
 * [Credits](#Credits)
 * [License](#License)
 
-# Kurzbeschreibung <a name="Description">
+# Kurzbeschreibung <a name="Kurzbeschreibung">
 
 In diesem Teilprojekt angestrebt wird die Herstellung eines persönlichen Bezugs der Besucher*innen zu den Fasnachts-Masken. Erfahrungsgemäß lassen sich Wissen und Inhalte einfacher und besser vermitteln, wenn zuvor ein emotionaler bzw. persönlicher Bezug erzeugt wurde und eine allgemeine Information somit zu einer persönlichen wird. Dies gelingt durch den intuitiven Einsatz von KI, die Masken und Besucher*innen miteinander verbindet. Die Besucher*innen treten dazu an eine spezielle Onboarding- Station mit interaktivem Bildschirm, der über Buttons und eine Kamera bedient werden kann. Die Besucher*innen sind aufgefordert, eine von verschiedenen Grimassen zu zeigen, die von der Kamera aufgenommen wird. Das Videomaterial wird von einer dahinterliegenden KI analysiert und auf Ähnlichkeit mit den Fasnachts-Masken hin überprüft. Im Ergebnis erhält der*die Besucher*in ihre individuelle Maske aus digitalisierter Masken ausgewählt und virtuell aufgesetzt. Auf dem Bildschirm erscheint der*die Besucher*in somit mit der eigens zugeordneten Maske. Zu dieser werden bereits einige Informationen eingeblendet, die auf die Herkunft und Bedeutung verweisen und somit eine emotionale Bindung von Besucher*in und Kontext der Maske entwickeln. Diese Information kann später in der Ausstellung zu Personalisierungszwecken wieder aufgegriffen werden. Zudem ist dies ein unterhaltsames soziales Ereignis, das zu witzigen Situationen zwischen den Besucher*innen führt und diese verbindet. Auf diese Weise wird immaterielles Kulturerbe fassbar und erlebbar und bekommt einen Anwendungscharakter.
 
