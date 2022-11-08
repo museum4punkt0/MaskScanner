@@ -4,7 +4,7 @@ Maskenscanner / Mask Scanner
 ## Inhaltsverzeichnis
 
 * [Kurzbeschreibung](#Description)
-* [Entstehungskontext & Förderhinweis] (#Entstehungskontext & Förderhinweis)
+* [Entstehungskontext & Förderhinweis](#Entstehungskontext & Förderhinweis)
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [Technology stack](#TechStack)
