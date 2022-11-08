@@ -323,7 +323,8 @@ via the Unity PackageManager.
 	
 # Beteiligung <a name="Beteiligung">
 
-	...
+...
+	
 # Credits <a name="Credits">
 
 ...
