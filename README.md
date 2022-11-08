@@ -4,7 +4,6 @@ Maskenscanner / Mask Scanner
 ## Inhaltsverzeichnis
 
 * [Kurzbeschreibung](#Kurzbeschreibung)
-* [Entstehungskontext und Förderhinweis](#Entstehungskontext und Förderhinweis)
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [Technology stack](#TechStack)
@@ -16,9 +15,7 @@ Maskenscanner / Mask Scanner
 
 In diesem Teilprojekt angestrebt wird die Herstellung eines persönlichen Bezugs der Besucher*innen zu den Fasnachts-Masken. Erfahrungsgemäß lassen sich Wissen und Inhalte einfacher und besser vermitteln, wenn zuvor ein emotionaler bzw. persönlicher Bezug erzeugt wurde und eine allgemeine Information somit zu einer persönlichen wird. Dies gelingt durch den intuitiven Einsatz von KI, die Masken und Besucher*innen miteinander verbindet. Die Besucher*innen treten dazu an eine spezielle Onboarding- Station mit interaktivem Bildschirm, der über Buttons und eine Kamera bedient werden kann. Die Besucher*innen sind aufgefordert, eine von verschiedenen Grimassen zu zeigen, die von der Kamera aufgenommen wird. Das Videomaterial wird von einer dahinterliegenden KI analysiert und auf Ähnlichkeit mit den Fasnachts-Masken hin überprüft. Im Ergebnis erhält der*die Besucher*in ihre individuelle Maske aus digitalisierter Masken ausgewählt und virtuell aufgesetzt. Auf dem Bildschirm erscheint der*die Besucher*in somit mit der eigens zugeordneten Maske. Zu dieser werden bereits einige Informationen eingeblendet, die auf die Herkunft und Bedeutung verweisen und somit eine emotionale Bindung von Besucher*in und Kontext der Maske entwickeln. Diese Information kann später in der Ausstellung zu Personalisierungszwecken wieder aufgegriffen werden. Zudem ist dies ein unterhaltsames soziales Ereignis, das zu witzigen Situationen zwischen den Besucher*innen führt und diese verbindet. Auf diese Weise wird immaterielles Kulturerbe fassbar und erlebbar und bekommt einen Anwendungscharakter.
 	
-# Entstehungskontext und Förderhinweis <a name="Entstehungskontext und Förderhinweis">
-		
-Dieses Multimediasystem ist entstanden im Verbundprojekt museum4punkt0 – Digitale Strategien für das Museum der Zukunft, Teilprojekt "Kulturgut Fastnacht digital" am Fasnachtsmuseum Schloss Langenstein in Zusammenarbeit mit der Playersjourney UG konzipiert und umgesetzt. Die Umsetzung inkludiert sowohl Hardwarekonfiguration wie auch Softwareentwicklung. Das Projekt museum4punkt0 wird gefördert durch die Beauftragte der Bundesregierung für Kultur und Medien aufgrund eines Beschlusses des Deutschen Bundestages. [Weitere Informationen](https://www.museum4punkt0.de)
+Dieses Projekt ist entstanden im Verbundprojekt museum4punkt0 – Digitale Strategien für das Museum der Zukunft, Teilprojekt "Kulturgut Fastnacht digital" am Fasnachtsmuseum Schloss Langenstein in Zusammenarbeit mit der Playersjourney UG konzipiert und umgesetzt. Die Umsetzung inkludiert sowohl Hardwarekonfiguration wie auch Softwareentwicklung. Das Projekt museum4punkt0 wird gefördert durch die Beauftragte der Bundesregierung für Kultur und Medien aufgrund eines Beschlusses des Deutschen Bundestages. [Weitere Informationen](https://www.museum4punkt0.de)
 
 ![BKM-Logo](https://github.com/museum4punkt0/Object-by-Object/blob/77bba25aa5a7f9948d4fd6f0b59f5bfb56ae89e2/04%20Logos/BKM_Fz_2017_Web_de.gif)
 ![NeustartKultur](https://github.com/museum4punkt0/Object-by-Object/blob/22f4e86d4d213c87afdba45454bf62f4253cada1/04%20Logos/BKM_Neustart_Kultur_Wortmarke_pos_RGB_RZ_web.jpg)
