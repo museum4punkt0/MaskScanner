@@ -1,6 +1,12 @@
 # Name der Anwendung
 Maskenscanner / Mask Scanner
 
+# Lokalisierung der Anwendung
+https://filehost.cxn-pulsar.com/MaskScanner.CompleteProject_20220902.zip
+
+Hinweis: Die Projekt-Dateien sind haben teilweise die zulässige Gesamtgröße für das öffentliche GIT-Repository des Projekts Museum 4.0 überschritten. Deshalb werden diese auf einem Server bei contexagon in der Schweiz gehostet. Das Projekt befindet sich in einem ZIP-Archiv (virengeprüft). 
+
+
 ## Inhaltsverzeichnis
 
 * [Kurzbeschreibung](#Kurzbeschreibung)
